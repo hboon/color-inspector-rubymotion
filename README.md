@@ -1,4 +1,1 @@
-color-inspector-rubymotion
-==========================
-
-A prototype color inspector for RubyMotion views
+Link: [A color inspector in RubyMotion](http://hboon.com/a-color-inspector-in-rubymotion).
